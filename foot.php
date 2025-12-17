@@ -3,6 +3,10 @@
         site réalisé par Ed - design The Monster | 
         <a href="mailto:test@free.fr">contact</a>
       </div>
+            <div id="divPied" class="petitTexte">
+        site réalisé par Ed - design The Monster | 
+        <a href="mailto:test@free.fr">contact</a>
+      </div>
 
     </div>
 
